@@ -15,13 +15,32 @@ The dataset contains information about flight booking options for travel.
 9. Duration: Total travel time between cities in hours.
 10. Price: Target variable, the price of the ticket.
 
+# Exploratory Data Analysis (EDA)
+In this project, we performed EDA to understand the distribution of data and relationships between features. Some of the visualizations include:  
+
+ • Distribution of airlines and their average pricing.
+ 
+ • Class distribution in airlines.
+ 
+ • Analysis of business and economy class flights.
+ 
+ • Day-Wise Distribution of Flights.
+ 
+ • Price trends based on departure time and arrival time.
+
+
+
 
 # Prerequisites
 
-Python 3.7 or above
-Jupyter Notebook or Jupyter Lab
-The following Python packages:
-pandas
-numpy
-seaborn
-matplotlib
+• Python 3.7 or above
+
+• Jupyter Notebook 
+
+• pandas
+
+• numpy
+
+• seaborn
+
+• matplotlib
